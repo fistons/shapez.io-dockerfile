@@ -1,7 +1,7 @@
 # shapez.io's Dockerfile
 A Dockerfile to build Shapez.io
 
-It aims to ease the build and deployement of a local version of [shapez.io](https://shapez.io)
+It aims to ease the build and deployment of a local version of [shapez.io](https://shapez.io)
 
 __I know the image is huge right now (~2,54 Go), I wil fix it asap__
 
